@@ -1,43 +1,29 @@
-coreBOS
-=======
-
-**This project is currently being developed elsewhere.** The development efforts have moved to private servers. This repository will only receive some security and major bug fixes.
-
-[Read more here](https://blog.corebos.org/blog/byebyeopensource)
-
-------
-
-**core Business Operating System**
-
-![Stable Build](https://blog.corebos.org/stable.svg)
-![License](https://blog.corebos.org/license.svg)
-[![Build Status](https://github.com/tsolucio/corebos/actions/workflows/formatting.yml/badge.svg)](https://github.com/tsolucio/corebos/actions)
-[![Chat with us on Gitter](https://badges.gitter.im/phpmd/community.svg)](https://gitter.im/corebos/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-**coreBOS** is a very flexible and powerful software application designed to easily adapt to the requirements of your business. In other words, a business software capable of managing the everyday needs of your business.
-
-To accomplish such a gigantic task it has many mechanisms to make your work easy and productive while giving implementors and administrators the power to configure and adapt the software to the immense variety of business situations it may be applied to. In other words, it can do all the easy stuff like track your clients' information, their business opportunities, their quotes and invoices, and even add your entities to save specific information that your business needs, but it does all the hard stuff too; **business process management** is easy with a powerful workflow automation engine, ticket management with Kanban, extensive reporting options, including Pivot tables and an incredible set of customizations options to convert the base application into the software application your company needs, because, your company is not the same as any other.
-
-It comes with many integrations out of the box; Decision Tables (DMN), WhatsApp, SendGrid, Google Measurement, ElasticSearch, Woocommerce, Mautic, ClickHouse, Facebook, OneSignal, Make, and a subsystem to call external APIs, among many many others.
-
-It can also be used as a pure backend for any kind of front-end application thanks to its powerful API. Joining the many API functionalities with the native automation options make it an ideal and trustworthy place to save and manage your data.
-
-With a business-friendly license and a fully open source philosophy where your data and your customizations are always yours, coreBOS can cover the needs of a very wide range of market segments and also serve as a base for implementors to service their clients.
-
-coreBOS is backed by a small but consistent community and patronized by [TSolucio](https://tsolucio.com) and AT Consulting who not only base their business on this software but give it the power and stability to move into the future with confidence.
-
-We invite you to [give it a try](http://corebos.org/documentation/doku.php?id=en:install550) and dedicate a few hours to [reading the blog](http://blog.corebos.org), [the forum](http://discussions.corebos.org/) and [our Gitter channel](https://gitter.im/corebos/discuss) to understand the **power** this application has and the many things it can do.
-
-Here are some other interesting links you can have a look at:
-
-- [Our website](http://corebos.org/) for full details of the project
-- [LinkedIn](http://www.linkedin.com/groups/coreBOS-7479130?trk=my_groups-b-grp-v)
-- [Youtube coreBOS](https://www.youtube.com/channel/UCmUzoelIqe2eL3YvEv5kLYw)
-- [Youtube coreBOSCRM](https://www.youtube.com/channel/UCqH0YuMrOI9HSEObq3xqXLQ)
-- [Twitter](https://twitter.com/coreBOSBeat)
-- [Documentation](http://corebos.org/documentation/)
-- [Demo Install](http://demo.corebos.com/) User and password: _admin_ there are a handful of other users whose password is the same as the name of the user.
-
-**Thank you** very much for your help and contribution.
-
-*coreBOS Team*
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5007301" _msthash="445">核心 BOS</h1><a id="user-content-corebos" class="anchor" aria-label="永久链接：coreBOS" href="#corebos" _mstaria-label="314405" _msthash="446"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="458995615" _msthash="447"><strong _istranslated="1">该项目目前正在其他地方开发。</strong>开发工作已转移到私有服务器。此存储库将仅接收一些安全和主要错误修复。</p>
+<p dir="auto"><a href="https://blog.corebos.org/blog/byebyeopensource" rel="nofollow" _msttexthash="25639237" _msthash="448">在此处阅读更多</a></p>
+<hr>
+<p dir="auto"><strong _msttexthash="28244372" _msthash="449">企业核心业务操作系统 - 企业智慧大脑 </strong></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/770b6bdb20195563a51a18d81e5df1275e01fcc6d2d089a9f6e4163cf56bf4c4/68747470733a2f2f626c6f672e636f7265626f732e6f72672f737461626c652e737667"><img src="https://camo.githubusercontent.com/770b6bdb20195563a51a18d81e5df1275e01fcc6d2d089a9f6e4163cf56bf4c4/68747470733a2f2f626c6f672e636f7265626f732e6f72672f737461626c652e737667" alt="稳定版" data-canonical-src="https://blog.corebos.org/stable.svg" style="max-width: 100%;" _mstalt="172393" _msthash="450"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1869a1fafd8e3ee88eb78c427082f7010bf949084b94d3e5842ea2e5b4d463b9/68747470733a2f2f626c6f672e636f7265626f732e6f72672f6c6963656e73652e737667"><img src="https://camo.githubusercontent.com/1869a1fafd8e3ee88eb78c427082f7010bf949084b94d3e5842ea2e5b4d463b9/68747470733a2f2f626c6f672e636f7265626f732e6f72672f6c6963656e73652e737667" alt="许可证" data-canonical-src="https://blog.corebos.org/license.svg" style="max-width: 100%;" _mstalt="93288" _msthash="451"></a>
+<a href="https://github.com/tsolucio/corebos/actions"><img src="https://github.com/tsolucio/corebos/actions/workflows/formatting.yml/badge.svg" alt="构建状态" style="max-width: 100%;" _mstalt="181376" _msthash="452"></a>
+<a href="https://gitter.im/corebos/discuss?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge" rel="nofollow"><img src="https://camo.githubusercontent.com/bb5bbebd86bda00b085a8a38ec9ac039fd2d10592053830eab4e3a00dcc6a4dd/68747470733a2f2f6261646765732e6769747465722e696d2f7068706d642f636f6d6d756e6974792e737667" alt="在 Gitter 上与我们聊天" data-canonical-src="https://badges.gitter.im/phpmd/community.svg" style="max-width: 100%;" _mstalt="387725" _msthash="453"></a></p>
+<p dir="auto" _msttexthash="865174895" _msthash="454"><strong _istranslated="1">coreBOS</strong> 是一款非常灵活且功能强大的软件应用程序，旨在轻松适应您的业务需求。换句话说，一款能够管理您业务日常需求的商业软件。</p>
+<p dir="auto" _msttexthash="12102029797" _msthash="455">为了完成如此艰巨的任务，它有许多机制可以使您的工作变得轻松高效，同时赋予实施者和管理员配置和调整软件的能力，以适应它可能应用于的各种业务情况。换句话说，它可以做所有简单的事情，比如跟踪客户的信息、他们的商机、他们的报价和发票，甚至添加您的实体来保存您的业务需要的特定信息，但它也可以做所有困难的事情;借助强大的工作流自动化引擎、带看板的工单管理、广泛的报告选项（包括数据透视表）和一组令人难以置信的自定义选项，将基本应用程序转换为您公司所需的软件应用程序，业务流程<strong _istranslated="1">管理</strong>很容易，因为，您的公司与其他公司不同。</p>
+<p dir="auto" _msttexthash="1009516209" _msthash="456">它带有许多开箱即用的集成;决策表 （DMN）、WhatsApp、SendGrid、Google Measurement、ElasticSearch、Woocommerce、Mautic、ClickHouse、Facebook、OneSignal、Make 以及用于调用外部 API 的子系统等等。</p>
+<p dir="auto" _msttexthash="1057678128" _msthash="457">由于其强大的 API，它还可以用作任何类型前端应用程序的纯后端。将许多 API 功能与本机自动化选项相结合，使其成为保存和管理数据的理想且值得信赖的位置。</p>
+<p dir="auto" _msttexthash="1179676069" _msthash="458">凭借对业务友好的许可证和完全开源的理念，您的数据和自定义设置始终属于您，coreBOS 可以满足非常广泛的细分市场的需求，还可以作为实施者为客户提供服务的基础。</p>
+<p dir="auto" _msttexthash="1079615407" _msthash="459">coreBOS 由一个小型但一致的社区提供支持，并得到 <a href="https://tsolucio.com" rel="nofollow" _istranslated="1">TSolucio</a> 和 AT Consulting 的光顾，他们不仅将业务基于该软件，还赋予其信心地迈向未来的能力和稳定性。</p>
+<p dir="auto" _msttexthash="684540844" _msthash="460">我们邀请您<a href="http://corebos.org/documentation/doku.php?id=en:install550" rel="nofollow" _istranslated="1">试</a>一试，并花几个小时<a href="http://blog.corebos.org" rel="nofollow" _istranslated="1">阅读博客</a>、<a href="http://discussions.corebos.org/" rel="nofollow" _istranslated="1">论坛</a>和<a href="https://gitter.im/corebos/discuss" rel="nofollow" _istranslated="1">我们的 Gitter 频道</a>，以了解此应用程序的<strong _istranslated="1">强大功能</strong>以及它可以做的许多事情。</p>
+<p dir="auto" _msttexthash="116836512" _msthash="461">以下是您可以查看的其他一些有趣的链接：</p>
+<ul dir="auto">
+<li _msttexthash="86306948" _msthash="462"><a href="http://corebos.org/" rel="nofollow" _istranslated="1">我们的网站</a>了解项目的完整详细信息</li>
+<li><a href="http://www.linkedin.com/groups/coreBOS-7479130?trk=my_groups-b-grp-v" rel="nofollow" _msttexthash="107016" _msthash="463">LinkedIn</a></li>
+<li><a href="https://www.youtube.com/channel/UCmUzoelIqe2eL3YvEv5kLYw" rel="nofollow" _msttexthash="9784294" _msthash="464">Youtube 核心BOS</a></li>
+<li><a href="https://www.youtube.com/channel/UCqH0YuMrOI9HSEObq3xqXLQ" rel="nofollow" _msttexthash="9843184" _msthash="465">Youtube 核心BOSCRM</a></li>
+<li><a href="https://twitter.com/coreBOSBeat" rel="nofollow" _msttexthash="1985711" _msthash="466">唽</a></li>
+<li><a href="http://corebos.org/documentation/" rel="nofollow" _msttexthash="5144373" _msthash="467">文档</a></li>
+<li _msttexthash="210665871" _msthash="468"><a href="http://demo.corebos.com/" rel="nofollow" _istranslated="1">演示安装</a>用户和密码：<em _istranslated="1">admin</em>有少数其他用户的密码与用户名相同。</li>
+</ul>
+<p dir="auto" _msttexthash="50932323" _msthash="469"><strong _istranslated="1">非常感谢您的</strong>帮助和贡献。</p>
+<p dir="auto"><em _msttexthash="11624899" _msthash="470">coreBOS 团队</em></p>
+</article></div>
